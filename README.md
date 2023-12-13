@@ -7,6 +7,6 @@ Hacer npm install en caso de ser necesario
 ## Herramientas
 * Framework: Vue.js 3
 * Css: none
-* Backend:Express.js
+* Backend: Express.js
 * BDD: Mongodb/SQL
 
